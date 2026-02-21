@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xuanhao Liu"
+  name             : "Zhao Zhang"
   avatar           : "images/xuanhaoliu.jpg"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "University of Pennsylvania"
+  location         : "Philadelphia, US"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=99yIdXAAAAAJ"
-  email            : "haogram_sjtu@sjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Xuanhao-Liu"
+  googlescholar    : 
+  email            : "zhang110@seas.upenn.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
