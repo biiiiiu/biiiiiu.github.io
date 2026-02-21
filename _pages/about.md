@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CONTINfit-GRNN: a hybrid method for recovering nanoparticle size distribution in dynamic light scattering](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CONTINfit-GRNN: a hybrid method for recovering nanoparticle size distribution in dynamic light scattering](https://link.springer.com/article/10.1007/s11051-025-06469-x)
 
 **Zhao Zhang**, Jiajie Wang, Paul Briard, Hameed Akhtar, Kewen Su
 
@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2026.01 - (now)*, M.S student, Electrical Engineering, University of Pennsylvania. 
-- *2021.09 - 2025.06*, Undergraduate student, Applied Physics, Xidian University. 
+- *2021.09 - 2025.06*, B.S student, Applied Physics, Xidian University. 
 
 # 💻 Internships
-- *2025.09 - 2025.12*, iFLYTEK, Beijing China.
+- *2025.09 - 2025.12*, iFLYTEK, Beijing, China.
