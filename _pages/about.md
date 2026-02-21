@@ -49,9 +49,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2026.01 - (now)*, M.S student, Electrical Engineering, University of Pennsylvania. 
 - *2021.09 - 2025.06*, Undergraduate student, Applied Physics, Xidian University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *2025.09 - 2025.12*, iFLYTEK, Beijing China.
