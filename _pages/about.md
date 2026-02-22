@@ -34,7 +34,7 @@ My research interest includes Neural Decoding and Brain-computer Interfaces.
 
 **Zhao Zhang**, Jiajie Wang, Paul Briard, Hameed Akhtar, Kewen Su
 
-- We proposed a hybrid inversion algorithm by integrating the constrained regularization method (CONTIN), the nonlinear least squares fitting strategy and a general regression neural network (GRNN).
+- We proposed a hybrid inversion algorithm by integrating the constrained regularization method (CONTIN), the nonlinear least squares fitting and a general regression neural network (GRNN).
 - Achieved precise inversion of the particle size distribution for unimodal and bimodal nano-spherical particle systems, with enhanced robustness against noise.
 </div>
 </div>
