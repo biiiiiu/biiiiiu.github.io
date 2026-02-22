@@ -27,7 +27,7 @@ My research interest includes Neural Decoding and Brain-computer Interfaces.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Nanopart. Res. 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CONTINfit-GRNN: a hybrid method for recovering nanoparticle size distribution in dynamic light scattering](https://link.springer.com/article/10.1007/s11051-025-06469-x)
